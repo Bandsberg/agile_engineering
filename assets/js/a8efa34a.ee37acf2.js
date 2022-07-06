@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2689],{5188:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/agile_engineering/blog/tags/hola","allTagsPath":"/agile_engineering/blog/tags","count":1}')}}]);

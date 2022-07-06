@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6939],{2743:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/agile_engineering/blog/tags/docusaurus","allTagsPath":"/agile_engineering/blog/tags","count":4}')}}]);
